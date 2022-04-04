@@ -1,0 +1,11 @@
+  var myLayarcJSON = '{ "arcs" : [' +
+    '{ "name":"systems design" , "start":"10", "end":"190" },' +
+    '{ "name":"performance" , "start":"120", "end":"270" },' +
+    '{ "name":"optimization" , "start":"200", "end":"290" },' +
+    '{ "name":"visualization" , "start":"190", "end":"225" },' +
+    '{ "name":"data" , "start":"30", "end":"230" },' +
+    '{ "name":"learning" , "start":"0", "end":"70" },' +
+    '{ "name":"analysis" , "start":"120", "end":"370" },' +
+    '{ "name":"design" , "start":"80", "end":"170" },' +
+    '{ "name":"adapt" , "start":"100", "end":"300" }] }';
+
